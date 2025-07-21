@@ -81,16 +81,14 @@ If this helped you build or inspire your own site:
 
 - ⭐ Star this repo
 
-- 📺 [Watch the full walkthrough on YouTube](https://youtu.be/i0229UsdBwc)
 
-- 📬 [Connect on LinkedIn](https://www.linkedin.com/in/ali-sanati)
+- 📬 [Connect on LinkedIn](https://www.linkedin.com/in/nikhil-garg-learner)
 
-- 📷 [Follow me on Instagram](https://www.instagram.com/ali.sanatidev/reels/)
 
 ---
 
 ## 🤝 Let’s Build Together
 
-Drop a comment on the video or open an issue with your idea!
+
 
 > 📩 Like, subscribe, and let me know what kind of project you want to build together!
